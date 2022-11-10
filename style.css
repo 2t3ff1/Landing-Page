@@ -186,3 +186,18 @@ h1 {
     background-color: #f9faf8;
     color: #3882F6;
 }
+
+.footer {
+    background-color: #1F2937;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.text4 {
+    color: #f9faf8;
+    font-size: 14px;
+    font-weight: 400;
+}
