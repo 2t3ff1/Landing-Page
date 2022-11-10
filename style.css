@@ -76,6 +76,7 @@ h1 {
     font-size: 14px;
     border-radius: 8px;
     transition-duration: 0.4s;
+    font-weight: 600;
 }
 
 .button:hover {
@@ -145,4 +146,43 @@ h1 {
     font-weight: bold;
     display: flex;
     align-self: flex-end;
+}
+
+.content4 {
+    background-color: #3882F6;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 30px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.text2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.text2, .text3 {
+    color: #f9faf8;
+}
+
+.button2 {
+    background-color: #3882F6;
+    color: #f9faf8;
+    padding: 10px 20px;
+    border: 2px solid;
+    border-color: #f9faf8;
+    font-size: 14px;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    font-weight: 600;
+}
+
+.button2:hover {
+    background-color: #f9faf8;
+    color: #3882F6;
 }
